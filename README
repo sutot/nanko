@@ -1,0 +1,5 @@
+- How to Compile and Install.
+  gcc nanko.c -o nanko
+
+- How to use.
+  nanko -h
